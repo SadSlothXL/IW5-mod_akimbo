@@ -22,6 +22,17 @@ If you wish to improve this and want to update this version please message me on
 - UMP45
 - PP90M1
 - Model 1887
+#
+### **Path:**
+```
+.
+├── ...
+├── 📁 Call of Duty Modern Warfare 3
+│   └── 📁 zone
+|      └── 📁 <your game language>
+|          └── 📜 patch_specialops.ff
+└── ...
+```
 
 #
 ![image](https://github.com/user-attachments/assets/738e38f9-5bf4-4cd8-a67f-cf2a08cb06bb)
