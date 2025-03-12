@@ -22,7 +22,8 @@ If you wish to improve this and want to update this version please message me on
 - UMP45
 - PP90M1
 - Model 1887
-#
+# Unlocked at level 50!
+
 ### **Path:**
 ```
 .
